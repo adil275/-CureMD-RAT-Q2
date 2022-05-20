@@ -2,7 +2,8 @@
 #### This is the solution to Question 2 of CureMD Research Aptitude Test.
 #### Attatched is the notebook for implementing Counterfactual using 1NN.
 #### About the data set:
-#### The data set has been downloaded from Kaggle . The dataset is originally from National institute of Diabetes and Kidney Diseases. The objective is to predict the possibility of diabetes based on diagnostic measurements. 
+#### The data set has been downloaded from Kaggle: https://www.kaggle.com/datasets/mathchi/diabetes-data-set  . 
+#### The dataset is originally from National institute of Diabetes and Kidney Diseases. The objective is to predict the possibility of diabetes based on diagnostic measurements. 
 #### Number of Instances: 768
 #### Number of Attributes: 8 plus class
 #### For Each Attribute: (all numeric-valued): 
